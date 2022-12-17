@@ -52,11 +52,9 @@
 
 - [[SIGGRAPH] Advances in Real-Time Rendering in Games course](https://advances.realtimerendering.com/)
   - [More Details](details/sig-advance-course.md) 
-
 - GDC
   - 
   - [GDC | Technical Artist Bootcamp](https://gdconf.com/tutorial/game-technical-art)
-
 - Unite
   - 
 
@@ -68,15 +66,10 @@
 
 - Shaders
   - [Shadertoy](https://www.shadertoy.com/)
-
 - 函数可视化
-
   - [Desmos | 图形计算器](https://www.desmos.com/calculator?lang=zh-CN)
-
   - [Graphtoy](https://graphtoy.com/)
-
   - [Easing Functions Cheat Sheet](https://easings.net/)：常用缓和曲线
-
 - Github repo
   - 
 
