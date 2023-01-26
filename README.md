@@ -23,7 +23,7 @@
 
     中文字幕版：https://www.bilibili.com/video/BV1Jt41157Jr/
 
-  - 
+  - [微积分 (浙江大学 苏德矿)](https://www.bilibili.com/video/BV1Lt411r7NQ/)
 
 - [3Blue1Brown - YouTube](https://www.youtube.com/@3blue1brown)
 
