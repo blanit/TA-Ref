@@ -6,11 +6,11 @@
 
 
 
-| Title | Preview | Description |
-| ----- | ------- | ----------- |
-|       |         |             |
-|       |         |             |
-|       |         |             |
+| Title                                                        | Preview | Description |
+| ------------------------------------------------------------ | ------- | ----------- |
+| Technical Artist Bootcamp: Introduction to Proceduralism<br />[Youtube](https://www.youtube.com/watch?v=-LHj7-kROoo) |         |             |
+|                                                              |         |             |
+|                                                              |         |             |
 
 
 

@@ -59,7 +59,7 @@
   - 
   
   - [GDC | Technical Artist Bootcamp](https://gdconf.com/tutorial/game-technical-art)
-    - [More Details](details\technical-artist-bootcamp.md) 
+    - [More Details](details/technical-artist-bootcamp.md) 
   
 - Unite
 
