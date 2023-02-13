@@ -41,10 +41,15 @@
 
 - Fundamentals of Computer Graphics
 - [Real-Time Rendering](https://www.realtimerendering.com/)
+- GPU Gems Series
+- Shader X Series
 
 
 
-
+- The Cg Tutorial: The Definitive Guide to Programmable Real-Time Graphics
+- Shaders for Game Programmers and Artists
+- The COMPLETE Effect and HLSL Guide
+- Advanced Lighting and Materials with Shaders
 
 
 
